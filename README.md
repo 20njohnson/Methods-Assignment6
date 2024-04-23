@@ -1,6 +1,10 @@
 Nathan Johnson
+
 Instructor Devin Gray
+
 Montana State University: Industry Methods Assignment 6
+
+
 
 Instructions:
 Run the project from one of the java files and navigate to the localhost port.
