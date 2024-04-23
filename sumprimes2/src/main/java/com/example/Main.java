@@ -13,7 +13,7 @@ public class Main {
         app.setServerOptions(new ServerOptions().setPort(8080));
 
         app.get("/", ctx -> {
-            return new File("src/main/resources/frontEnd.html");
+            return new File("sumprimes2/src/main/resources/frontEnd.html");
         });
 
         app.post("/primeSumOutput", ctx -> {
